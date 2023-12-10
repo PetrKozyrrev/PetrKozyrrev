@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
   <a href="https://vk.com/petrutch0">
-  <img src="https://img.shields.io/badge/Vk-blue?logo=vk&logoColor=white&style=for-the-badge" alt="Vk Badge"/>
+  <img src="https://img.shields.io/badge/Vk-black?logo=vk&logoColor=white&style=for-the-badge" alt="Vk Badge"/>
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=your-github-PetrKozyrrev&style=flat-square&color=blue" alt=""/>
