@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1>The first rule of Fight Club is: you do not talk about Fight Club🤜🤛</h1>
+  <h1>The first rule of Fight Club is: you do not talk about Fight Club🤜</h1>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGdqczBnZ3Y4b3V3ZGd5aWJlbWtsbTc1ajA3NzNhZHh2YTE0M29qeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT77XZrTKOxycjaYvK/giphy.gif" width="400"/>
 
 <div id="badges" align="center">
