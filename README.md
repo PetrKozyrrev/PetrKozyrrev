@@ -5,19 +5,23 @@
   <a href="https://t.me/petrkoz">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
+  <a href="in/petr-kozyrev-5b08872aa">
+    <img src="https://img.shields.io/badge/LinkedIn-white?logo=linkedin&logoColor=blue&style=for-the-badge" alt="Linkedin Badge"/>
+  </a>
+  <a href="https://www.kaggle.com/petrkozyrev">
+    <img src="https://img.shields.io/badge/Kaggle-DCF2F1?logo=kaggle&logoColor=blue&style=for-the-badge" alt="Kaggle Badge"/>
+  </a>
   <a href="https://vk.com/petrutch0">
   <img src="https://img.shields.io/badge/Vk-black?logo=vk&logoColor=white&style=for-the-badge" alt="Vk Badge"/>
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=your-github-PetrKozyrrev&style=flat-square&color=blue" alt=""/>
-  <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <h1>The first rule of Fight Club is: you do not talk about Fight Club🤜🤛
 </h1>
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" width="600" height="500"/>
+  <img src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" width="800" height="400"/>
 </div>
 
 
