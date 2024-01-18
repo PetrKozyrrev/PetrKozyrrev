@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/Vk-black?logo=vk&logoColor=white&style=for-the-badge" alt="Vk Badge"/>
   </a>
 </div>
+<br>
   <img src="https://komarev.com/ghpvc/?username=your-github-PetrKozyrrev&style=flat-square&color=blue" alt=""/>
 </div>
 <!--
