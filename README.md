@@ -49,11 +49,13 @@
 ---
 
 ## My Stats: 🔥🔥🔥<br>
-<div align="center">
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PetrKozyrrev&theme=dark&background=000000)](https://git.io/streak-stats)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PetrKozyrrev&theme=discord_old_blurple) 
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PetrKozyrrev&theme=discord_old_blurple)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PetrKozyrrev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PetrKozyrrev&theme=dark&background=000000)](https://git.io/streak-stats) &nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PetrKozyrrev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 <!--
 **PetrKozyrrev/PetrKozyrrev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
