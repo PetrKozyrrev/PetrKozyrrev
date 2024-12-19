@@ -28,7 +28,7 @@
 
 
  ## About me: 👨‍💻 
-  I am a student at the Moscow Aviation Institute <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  I am a student at the Moscow Aviation Institute and also an intern analyst at TBank <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
  ---
 
